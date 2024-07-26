@@ -1,4 +1,4 @@
-## Student at Tech Elevator - Pittsburgh, learning Full-Stack Web Development
+## Student at Tech Elevator Pittsburgh - Learning Full-Stack Web Development
 This is a repository for various personal and portfolio projects. 
 
 ## Skills
