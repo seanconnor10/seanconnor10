@@ -1,6 +1,6 @@
-Hello!
+Student at Tech Elevator Pittsburgh, learning full-stack web development using Java, PostgreSQL and VUE.js.
 
-Student at Tech Elevator Pittsburgh
+Repository for various personal projects.
 
 <!--
 **seanconnor10/seanconnor10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
