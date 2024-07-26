@@ -1,4 +1,4 @@
-## Student at Tech Elevator Pittsburgh, learning full-stack web development using Java, PostgreSQL and VUE.js.
+## Student at Tech Elevator - Pittsburgh, learning Full-Stack Web Development
 This is a repository for various personal and portfolio projects. 
 
 ## Skills
