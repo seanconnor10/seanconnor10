@@ -4,7 +4,7 @@ This is a repository for various personal and portfolio projects.
 ## Skills
 | Java | PostgreSQL | JS | Vue |
 |----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img text-align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Solidity" alt="Solidity" width="55" height="55"/>|  <img 
 
 <!--
 **seanconnor10/seanconnor10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
