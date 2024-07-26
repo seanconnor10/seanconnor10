@@ -1,7 +1,5 @@
-Student at Tech Elevator Pittsburgh, learning full-stack web development using Java, PostgreSQL and VUE.js.
-
-Repository for various personal projects.
-
+## Student at Tech Elevator Pittsburgh, learning full-stack web development using Java, PostgreSQL and VUE.js.
+This is a repository for various personal and portfolio projects. 
 
 ## Skills
 | Java | PostgreSQL | JS | Vue |
